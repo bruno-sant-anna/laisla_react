@@ -1,21 +1,21 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "SENAI CETIQ",
+      "link": "https://www.youtube.com/watch?v=NSSq5_OIoVg",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Confecção 4.0",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Vista-se da forma que lhe agrada",
+          "url": "https://www.youtube.com/watch?v=NSSq5_OIoVg"
         },
         {
           "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "url": "https://www.youtube.com/watch?v=RnIUO_en7W4"
         },
         {
           "titulo": "Componentização com VanillaJS #AluraMais",
