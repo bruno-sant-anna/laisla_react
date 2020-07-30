@@ -1,45 +1,37 @@
 {
   "categorias": [
     {
-      "titulo": "SENAI CETIQ",
+      "titulo": "Confecção 4.0",
       "link": "https://www.youtube.com/watch?v=NSSq5_OIoVg",
       "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Confecção 4.0",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
       "videos": [
         {
           "titulo": "Vista-se da forma que lhe agrada",
           "url": "https://www.youtube.com/watch?v=NSSq5_OIoVg"
         },
         {
-          "titulo": "SEO com React",
+          "titulo": "SENAI CETIQ",
           "url": "https://www.youtube.com/watch?v=RnIUO_en7W4"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Conheça a Confecção 4.0 do SENAI São Paulo",
+          "url": "https://www.youtube.com/watch?v=NWoHDbswuzQ"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Planilha de Controle de Confecção 4.0 - Visão Geral",
+          "url": "https://www.youtube.com/watch?v=AZpeX5efFuY"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Sala de Corte - Audaces",
+          "url": "https://www.youtube.com/watch?v=pO7luWhzyhg"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Confecção 4.0 é um dos espaços mais visitados da OC2018",
+          "url": "https://www.youtube.com/watch?v=q0qFqhXFc_o"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "MBI Indústria Avançada: Confecção 4.0 - Edição Nordeste",
+          "url": "https://www.youtube.com/watch?v=ugwSOGtzaBk"
         }        
       ]
     },
